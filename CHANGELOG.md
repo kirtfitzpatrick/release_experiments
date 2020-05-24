@@ -1,4 +1,11 @@
-Notable changes per release.
+# Change Log
+### [1.1.5](https://github.com/kirtfitzpatrick/release_experiments/compare/v1.1.4...v1.1.5) (2020-05-24)
+
+
+### Improvements
+
+* Swapped changelog generators ([ec98d8e](https://github.com/kirtfitzpatrick/release_experiments/commit/ec98d8e00290ea38ddd35b5ec501397dd705ce93))
+
 ### [1.1.3](https://github.com/kirtfitzpatrick/release_experiments/compare/v1.1.2...v1.1.3) (2020-05-24)
 
 
