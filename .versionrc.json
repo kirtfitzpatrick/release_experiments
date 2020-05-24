@@ -17,5 +17,8 @@
       "filename": "lib/release_experiments/version.rb",
       "updater": "standard-version-updater.js"
     }
-  ]
+  ],
+  "scripts": {
+    "posttag": "release.sh"
+  }
 }
