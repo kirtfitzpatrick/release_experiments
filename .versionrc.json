@@ -1,5 +1,8 @@
 {
-  "header": "Notable changes per release.",
+  "header": "# Change Log",
+  "scripts": {
+    "changelog": "git-chglog"
+  },
   "types": [
     {"type": "feat", "section": "Features"},
     {"type": "fix", "section": "Bug Fixes"},
@@ -9,7 +12,7 @@
     {"type": "test", "section": "Improvements"},
     {"type": "perf", "section": "Improvements"},
     {"type": "build", "section": "Improvements"},
-    {"type": "ci", "section": true},
+    {"type": "ci", "section": "Improvements"},
     {"type": "chore", "hidden": true}
   ],
   "bumpFiles": [
