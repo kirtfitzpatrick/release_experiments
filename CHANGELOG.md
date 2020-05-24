@@ -1,4 +1,11 @@
 Notable changes per release.
+### [1.1.3](https://github.com/kirtfitzpatrick/release_experiments/compare/v1.1.2...v1.1.3) (2020-05-24)
+
+
+### Documentation
+
+* Readme ([a5b61c6](https://github.com/kirtfitzpatrick/release_experiments/commit/a5b61c6917afcef78f9c2f39a89f1e7b711c5138))
+
 ### [1.1.2](https://github.com/kirtfitzpatrick/release_experiments/compare/v1.1.1...v1.1.2) (2020-05-24)
 
 ### [1.1.1](https://github.com/kirtfitzpatrick/release_experiments/compare/v1.1.0...v1.1.1) (2020-05-24)
