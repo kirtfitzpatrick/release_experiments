@@ -19,6 +19,6 @@
     }
   ],
   "scripts": {
-    "posttag": "release.sh"
+    "posttag": "./release.sh"
   }
 }
