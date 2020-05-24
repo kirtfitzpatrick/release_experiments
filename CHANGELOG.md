@@ -1,4 +1,11 @@
 
+### [1.1.9](https://github.com/kirtfitzpatrick/release_experiments/compare/v1.1.8...v1.1.9) (2020-05-24)
+
+
+### Bug Fixes
+
+* automated gem publishing ([2b75c53](https://github.com/kirtfitzpatrick/release_experiments/commit/2b75c537bbd6905069d6285a5ad8aa28e2f02c3b))
+
 ### [1.1.8](https://github.com/kirtfitzpatrick/release_experiments/compare/v1.1.7...v1.1.8) (2020-05-24)
 
 
