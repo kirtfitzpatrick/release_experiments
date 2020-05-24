@@ -1,8 +1,5 @@
 {
-  "header": "# Change Log",
-  "scripts": {
-    "postchangelog": "git-chglog -o CHANGELOG.md"
-  },
+  "header": "",
   "types": [
     {"type": "feat", "section": "Features"},
     {"type": "fix", "section": "Bug Fixes"},
