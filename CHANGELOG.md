@@ -1,4 +1,11 @@
 
+### [1.1.8](https://github.com/kirtfitzpatrick/release_experiments/compare/v1.1.7...v1.1.8) (2020-05-24)
+
+
+### Improvements
+
+* automate gem release ([308188c](https://github.com/kirtfitzpatrick/release_experiments/commit/308188c707455083038b2e688e57ac92e6b28715))
+
 ### [1.1.7](https://github.com/kirtfitzpatrick/release_experiments/compare/v1.1.6...v1.1.7) (2020-05-24)
 
 
