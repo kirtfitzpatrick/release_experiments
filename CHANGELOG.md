@@ -1,4 +1,11 @@
 
+### [1.1.7](https://github.com/kirtfitzpatrick/release_experiments/compare/v1.1.6...v1.1.7) (2020-05-24)
+
+
+### Documentation
+
+* changelog generation ([108db93](https://github.com/kirtfitzpatrick/release_experiments/commit/108db9329630f031ff063c1c5a92d0f38093e44c))
+
 <a name="v1.1.5"></a>
 ## [v1.1.5](https://github.com/kirtfitzpatrick/release_experiments/compare/v1.1.4...v1.1.5)
 
@@ -129,4 +136,3 @@
 ### Chore
 
 * **release:** 1.0.0
-
