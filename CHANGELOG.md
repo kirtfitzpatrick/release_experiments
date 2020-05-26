@@ -1,4 +1,20 @@
 
+### [1.2.1](https://github.com/kirtfitzpatrick/release_experiments/compare/v1.2.0...v1.2.1) (2020-05-26)
+
+
+### Improvements
+
+* add conform config file ([1afafd2](https://github.com/kirtfitzpatrick/release_experiments/commit/1afafd22ed2f00dbe55e245b0845ea9d19f865f0))
+* remove gem file after publishing it ([68e1575](https://github.com/kirtfitzpatrick/release_experiments/commit/68e1575664fdf08e264e40a64c876abcd72c99aa))
+
+### [1.2.1](https://github.com/kirtfitzpatrick/release_experiments/compare/v1.2.0...v1.2.1) (2020-05-26)
+
+
+### Improvements
+
+* add conform config file ([1afafd2](https://github.com/kirtfitzpatrick/release_experiments/commit/1afafd22ed2f00dbe55e245b0845ea9d19f865f0))
+* remove gem file after publishing it ([68e1575](https://github.com/kirtfitzpatrick/release_experiments/commit/68e1575664fdf08e264e40a64c876abcd72c99aa))
+
 ## [1.2.0](https://github.com/kirtfitzpatrick/release_experiments/compare/v1.1.9...v1.2.0) (2020-05-24)
 
 
